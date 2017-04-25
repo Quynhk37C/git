@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-fix error master
-=======
-123 hhhh fix error version3.0
->>>>>>> version3.0
+master merging
