@@ -3,3 +3,5 @@ master merging
 =======
 version3.0 merging
 >>>>>>> version3.0
+
+hello
