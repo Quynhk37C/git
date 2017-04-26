@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-master merging
-=======
-version3.0 merging
->>>>>>> version3.0
-
-hello
+version3.0 merging check error
